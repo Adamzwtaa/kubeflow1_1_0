@@ -1,2 +1,0 @@
-FROM docker.io/seldonio/kfserving-alibiexplainer:v0.3.0
-MAINTAINER zwt
