@@ -1,2 +1,2 @@
-FROM gcr.io/kubeflow-images-public/profile-controller:v20190619-v0-219-gbd3daa8c-dirty-1ced0e
+FROM gcr.io/kubeflow-images-public/profile-controller:v1.1.0-ga49f658f
 MAINTAINER zwt

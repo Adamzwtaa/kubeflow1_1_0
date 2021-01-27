@@ -1,2 +1,2 @@
-FROM gcr.io/kubeflow-images-public/kfam:v20190612-v0-170-ga06cdb79-dirty-a33ee4
+FROM gcr.io/kubeflow-images-public/kfam:v1.1.0-g9f3bfd00
 MAINTAINER zwt
